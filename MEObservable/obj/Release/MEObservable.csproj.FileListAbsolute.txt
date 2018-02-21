@@ -1,0 +1,5 @@
+D:\C\MEObservable\MEObservable\bin\Release\MEObservable.dll
+D:\C\MEObservable\MEObservable\bin\Release\MEObservable.pdb
+D:\C\MEObservable\MEObservable\obj\Release\MEObservable.csprojResolveAssemblyReference.cache
+D:\C\MEObservable\MEObservable\obj\Release\MEObservable.dll
+D:\C\MEObservable\MEObservable\obj\Release\MEObservable.pdb
